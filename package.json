@@ -1,0 +1,21 @@
+{
+    "name": "oneblackfocus",
+    "displayName": "OneBlackFocus",
+    "description": "Work in the dark and get focus",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OneBlackFocus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OneBlackFocus-color-theme.json"
+            }
+        ]
+    }
+}

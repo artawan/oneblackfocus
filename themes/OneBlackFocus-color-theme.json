@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./OneBlackFocus.tmtheme",
+	"colors": {
+		"editor.background": "#000000",
+		"editorCursor.foreground": "#E1EBF2",
+		"editor.foreground": "#FFFFFF",
+		"editorWhitespace.foreground": "#3D3C3763",
+		"editor.lineHighlightBackground": "#3E3D32",
+		"editor.selectionBackground": "#3D4347"
+	},
+	"name": "OneBlackFocus"
+}
